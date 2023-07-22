@@ -79,4 +79,12 @@ header {
         display: none;
     }
 
+
+    .Scroll_down {
+        bottom: 19rem;
+    }
+
+    .header__socials {
+        bottom: 17rem;
+    }
   }
