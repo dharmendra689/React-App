@@ -25,6 +25,10 @@
     color: var(--color-primary);
 }
 
+section>h2, section>h5 {
+    padding-top: 2rem;
+}
+
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
